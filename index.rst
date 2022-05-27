@@ -41,13 +41,11 @@ Steps to Install Canon Printer Drivers
 1. If your computer has not the CD-ROM, then get the setup online from **canon ij setup** website.
 2. Open your web browser and visit `canon.com/ijsetup <https://cannon-com-ijsetup.readthedocs.io/en/latest/index.html>`_ webpage.
 3. Now click on **"setup"** and submit the name of the printer model. 
-
 	* Or you can click on the FIRST LETTERS, then enter the first two letters. Now, scroll down the screen, then choose your printer model and click on its model name.
 4. Then hit on the **SETTING UP** for Printer Model Number tab.
 5. Choose the location or region of the purchased printer at **canon.com/ijsetup**.
 6. Check whether the operating system is selected on the SELECT DEVICE page or not.
-
-	* In case if the operating system like windows is not selected, select from the given list.
+	*In case if the operating system like windows is not selected, select from the given list.
 7. Click the **SETUP** button, and it will redirect you to the download page.
 8. Click **DOWNLOAD** and start the canon ijsetup downloading.
 9. Once the download is completed, double-tap on the downloaded file and start installation.
