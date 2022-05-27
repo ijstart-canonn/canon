@@ -1,4 +1,5 @@
 
+
 #############
 Canon IJ Setup | ij.start.canon | Setup canon.com/ijsetup
 #############
@@ -7,7 +8,7 @@ Canon IJ Setup | ij.start.canon | Setup canon.com/ijsetup
 Canon Ij Setup - Download & Setup Canon Printer
 *************
 
-**Canon.com/ijsetup** - is the official webpage where you can download canon printer drivers. The process to setup canon printer is simple, just follow the guide for **Canon.com/ijsetup**.
+**Canon.com/ijsetup** - is the official webpage where you can download canon printer drivers. The process to setup canon printer is simple, just follow the guide for `canon.com/ijsetup <https://cannon-com-ijsetup.readthedocs.io/en/latest/index.html>`_.
 
 |
 .. image:: getstarted.png
@@ -21,7 +22,7 @@ Canon Ij Setup - Download & Setup Canon Printer
 *************
 How to download and setup canon printer drivers from canon.com/ijsetup?
 *************
-1.Open your web browser and visit **canon.com/ijsetup**.
+1.Open your web browser and visit `canon.com/ijsetup <https://cannon-com-ijsetup.readthedocs.io/en/latest/index.html>`_.
 2.**Enter your Canon printer model**.
 3.Click on your printer model when it appears in the sceen
 4.Select **Drivers and Downloads** to one side of the picture of your model.
@@ -32,13 +33,13 @@ How to download and setup canon printer drivers from canon.com/ijsetup?
 *************
 Instructions for canon ij setup
 *************
-Open the browser and visit **canon.com/ijsetup** or **https://ij.start.canon** for the latest and updated drivers for Canon printer. On canon ij setup printer guide, you can get help in Canon printer setup with USB and wireless connection. You can contact to canon support team if you face any issues in canon printer installation.
+Open the browser and visit `canon.com/ijsetup <https://cannon-com-ijsetup.readthedocs.io/en/latest/index.html>`_ or **https://ij.start.canon** for the latest and updated drivers for Canon printer. On canon ij setup printer guide, you can get help in Canon printer setup with USB and wireless connection. You can contact to canon support team if you face any issues in canon printer installation.
 
 *************
 Steps to Install Canon Printer Drivers
 *************
 1.If your computer has not the CD-ROM, then get the setup online from **canon ij setup** website.
-2.Open your web browser and visit **canon.com/ijsetup** webpage.
+2.Open your web browser and visit `canon.com/ijsetup <https://cannon-com-ijsetup.readthedocs.io/en/latest/index.html>`_ webpage.
 3.Now click on **"setup"** and submit the name of the printer model.
 *Or you can click on the FIRST LETTERS, then enter the first two letters. Now, scroll down the screen, then choose your printer model and click on its model name.
 4.Then hit on the **SETTING UP** for Printer Model Number tab.
@@ -61,7 +62,7 @@ On Windows
 
 1.Turn ON the **canon ij printer** and install cartridges.
 2.Ensure that on your WIFI router, there is a WPS button available where printer and system should be connected to the same network.
-3.Open your browser and go to **canon.com/ijsetup** and download the latest version of the **Canon printer setup**.
+3.Open your browser and go to `canon.com/ijsetup <https://cannon-com-ijsetup.readthedocs.io/en/latest/index.html>`_ and download the latest version of the **Canon printer setup**.
 4.Double-tap on the downloaded setup icon and follow instructions.
 5.In case if it doesn’t install automatically, then you have to install it manually.
 6.For manual installation, on your printer, go to settings and choose a radio option.
@@ -77,7 +78,7 @@ Using USB cable
 1.Usingthe USB cable, connect your printer to the Mac device.
 2.To install canon printer drivers automatically, click on **Add Printer**.
 3.Wait for the complete installation.
-4.In case if you face issues with the above steps, then download the setup from **canon.com/ijsetup**.
+4.In case if you face issues with the above steps, then download the setup from `canon.com/ijsetup <https://cannon-com-ijsetup.readthedocs.io/en/latest/index.html>`_.
 
 
 Wireless installation
